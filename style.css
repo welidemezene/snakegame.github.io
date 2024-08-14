@@ -1,0 +1,8 @@
+.canvas {
+  background-color: #000;
+}
+.Snake {
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 20px;
+}
