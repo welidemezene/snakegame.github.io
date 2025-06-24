@@ -2,18 +2,6 @@
 
 A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and challenging — control the snake, eat food, grow longer, and avoid hitting the walls or yourself!
 
-## 🌐 Live Demo
-
-👉 [Play Now](https://welidemezene.github.io/snake-game/)  
-*(If not deployed yet, you can deploy it easily via GitHub Pages)*
-
----
-
-## 📸 Screenshot
-
-![Snake Game Screenshot](./screenshot.png)  
-*Add a screenshot named `screenshot.png` in the root folder to display it here.*
-
 ---
 
 ## 🚀 Features
