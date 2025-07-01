@@ -12,14 +12,12 @@ A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and 
 - 🕹️ Score tracking
 - 🔁 Restart game on collision
 - 📱 Responsive layout (optional)
-
 ---
 
 ## 🛠️ Tech Stack
 - **HTML5** – Game canvas and structure
 - **CSS3** – Basic styling
 - **JavaScript (Vanilla)** – Game logic and rendering
-
 ---
 
 ## 🧪 How to Run Locally
