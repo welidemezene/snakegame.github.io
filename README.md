@@ -16,7 +16,6 @@ A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and 
 ---
 
 ## 🛠️ Tech Stack
-
 - **HTML5** – Game canvas and structure
 - **CSS3** – Basic styling
 - **JavaScript (Vanilla)** – Game logic and rendering
@@ -24,7 +23,6 @@ A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and 
 ---
 
 ## 🧪 How to Run Locally
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/welidemezene/snake-game.git
