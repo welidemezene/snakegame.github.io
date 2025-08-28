@@ -4,7 +4,7 @@ A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and 
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - 🎮 Smooth keyboard controls (arrow keys)
 - 🍎 Random food generation
@@ -14,13 +14,13 @@ A classic Snake Game built with **HTML, CSS, and JavaScript**. Simple, fun, and 
 - 📱 Responsive layout (optional)
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 - **HTML5** – Game canvas and structure
 - **CSS3** – Basic styling
 - **JavaScript (Vanilla)** – Game logic and rendering
 ---
 
-## 🧪 How to Run Locally
+### 🧪 How to Run Locally
 1. Clone the repository:
    ```bash
    git clone https://github.com/welidemezene/snake-game.git
